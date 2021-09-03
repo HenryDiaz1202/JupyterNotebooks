@@ -2,7 +2,7 @@
 
 ## Probando todos los trucos
 
-### ¿Campo de aplicación de las librerías Pandas y Numpy?
+### ¿Campo de aplicación de la librería Numpy?
 Numpy es una librería muy importante para Python ya que es la base de todos los cálculos científicos y muchas de las librerías de Machine Learning.
 
 Numpy reemplaza de forma más eficiente lo que podría ser un tipo lista. En las listas podemos tener conjuntos de elementos numéricos. Sin embargo las listas no logran manejar datos de dos dimensiones.
